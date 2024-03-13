@@ -4,7 +4,7 @@
 
 Highly experienced Port Operation Director with 22 years in the U.S Navy, specializing in strategic planning, financial management, and operational optimization. Skilled in data analysis using Tableau and Excel to improve efficiency and reduce costs. Holds an active security clearance with a successful track record in managing operations and leading cross-functional teams.
 
-## Technical Skills
+### Technical Skills
 •	Microsoft Office Suite
 •	Visual Studio
 •	Azure & AWS
@@ -15,8 +15,8 @@ Highly experienced Port Operation Director with 22 years in the U.S Navy, specia
 •	Pandas, NumPy, jQuery, VisiData
 •	PowerShell, Git, Bash, JavaScript
 
-### UNITED STATES NAVY – Patuxent River, MD						Sep 2022 – Present
-Port Operation Director
+## UNITED STATES NAVY – Patuxent River, MD						Sep 2022 – Present
+# Port Operation Director
 •	Designed financial dashboard in Tableau to assess budgetary performance and identify potential variances for a $100k annual budget. Spearheaded initiative-taking resource allocation strategies for optimization.
 •	Analyzed financial data to develop cost-effective strategies aligned with cost accounting principles. Achieved significant budget savings and streamlined operations, increasing efficiency by 25% in the first year.
 •	Condensed complex financial data into executive-level briefs, highlighting KPIs and potential risks. Facilitated quantitative support for the Command Triad with clear and effective communication.
