@@ -15,7 +15,7 @@ Highly experienced Port Operation Director with 22 years in the U.S Navy, specia
 •	Pandas, NumPy, jQuery, VisiData
 •	PowerShell, Git, Bash, JavaScript
 
-## UNITED STATES NAVY – Patuxent River, MD						Sep 2022 – Present
+### UNITED STATES NAVY – Patuxent River, MD						Sep 2022 – Present
 Port Operation Director
 •	Designed financial dashboard in Tableau to assess budgetary performance and identify potential variances for a $100k annual budget. Spearheaded initiative-taking resource allocation strategies for optimization.
 •	Analyzed financial data to develop cost-effective strategies aligned with cost accounting principles. Achieved significant budget savings and streamlined operations, increasing efficiency by 25% in the first year.
