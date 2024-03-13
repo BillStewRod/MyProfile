@@ -5,8 +5,10 @@
 ## PROFESSIONAL SUMMARY
 Highly experienced Port Operation Director with 22 years in the U.S Navy, specializing in strategic planning, financial management, and operational optimization. Skilled in data analysis using Tableau and Excel to improve efficiency and reduce costs. Holds an active security clearance with a successful track record in managing operations and leading cross-functional teams.
 
+
 ## TECHNICAL SKILLS
 Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitHub | MacOS, Windows, Linux | Python, C#, C/C++, R, SQL, PERL | Pandas, NumPy, jQuery, VisiData | PowerShell, Git, Bash, JavaScript 
+
 
 ## PROFESSIONAL EXPERIENCE
 ## US NAVY – Patuxent River, MD | Port Operation Director | Sep 2022 – Present
@@ -63,7 +65,9 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 ## US NAVY – Pensacola, FL | Advanced Skills Aviation Mechanic Course Director | Jul 2015 – Feb 2018
 
 •	Managed $75M in critical training assets, including aircraft engines, ensuring continuous availability for interactive instruction. Streamlined technical support processes, boosting training efficiency by 22% and maximizing the impact of training investments.
+
 •	Managed a large-scale training operation for 31 instructors and 1,680 students across four courses. Optimized resource allocation, significantly reducing class wait times to 10 days and achieving a 99% graduation rate.
+
 •	Leveraged Microsoft Applications and Authoring Instructional Materials (AIM) Software to analyze training data. Informed curriculum updates and optimized course delivery across 100+ modules, enhancing training outcomes through objective decisions. 
 
 ##  US NAVY – Kaneohe Bay, HI | Maintenance Manager | Nov 2014 – Jun 2015
@@ -73,6 +77,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 •	Collaborated with work center supervisors, leveraging DoD Financial Systems (Federal Mall, Naval Supply Systems Command OneTouch) to identify workload restrictions and potential issues. Improved production output by 34% and reduced "Beyond Capability of Maintenance" submissions by 50%.
 
 •	Reactively analyzed maintenance data using Decision Knowledge Programming (DECKPLATE) and Optimized Organizational Maintenance Activity System (OOMA) databases to identify aircraft engine maintenance trends for 13 P-3C aircraft. Generated reports in Excel, supporting metrics-based decision optimization to enhance aircraft availability.
+
 
 ## CERTIFICATIONS
 Data Analytics 1: Foundations	2024	|  Analyze data with Power BI	2024
@@ -87,8 +92,10 @@ CompTIA A+ Core 1 (220-1101) Cert Prep: 1 The Basics 2024	|  CompTIA A+ Core 1 (
 
 Senior Enlisted Aviation Maintenance	2018  |  Master Training Specialist (MTS), Mentor	2016
 
+
 ## SOFT SKILLS
 Problem-Solving |	Willingness to Learn	|	Active Listening	|	Time Management |	Decision-Making |	Critical Thinking	|	Openness to Change |	Leadership	|	Flexibility | 	Networking	|	Organizational Skills |	Verbal/Written Communication
+
 
 ---
 ## More Info
