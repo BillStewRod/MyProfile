@@ -11,7 +11,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 
 
 ## PROFESSIONAL EXPERIENCE
-## US NAVY – Patuxent River, MD | Port Operation Director | Sep 2022 – Present
+### US NAVY – Patuxent River, MD | Port Operation Director | Sep 2022 – Present
 
 •	Designed financial dashboard in Tableau to assess budgetary performance and identify potential variances for a $100k annual budget. Spearheaded initiative-taking resource allocation strategies for optimization.
 
@@ -19,7 +19,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 
 •	Condensed complex financial data into executive-level briefs, highlighting KPIs and potential risks. Facilitated quantitative support for the Command Triad with clear and effective communication.
 
-## US NAVY – Patuxent River, MD | Surface Operations Director | Aug 2021 –Aug 2022 
+#### US NAVY – Patuxent River, MD | Surface Operations Director | Aug 2021 –Aug 2022 
 •	Executed objective judgment to enhance Naval Security Force initiatives, port operations, and emergency preparedness. Optimized resource allocation through rigorous analysis of multiple base exercises.
 
 •	Spearheaded a comprehensive transformation of the Selection and Application Process with Navy Personnel Command, significantly improving Naval Security forces' efficiency, expanding civilian roles, and reducing overtime costs by over 50k in the first year.
