@@ -81,7 +81,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 
 
 ## Certifications
-Data Analytics 1: Foundations	2024	|  Analyze data with Power BI	2024
+  Data Analytics 1: Foundations	2024	|  Analyze data with Power BI	2024
 
 Career Skills in Data Analytics	2024	|  Microsoft Azure Data Fundamentals	2024
 
