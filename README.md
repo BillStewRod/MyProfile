@@ -119,4 +119,4 @@ Problem-Solving |	Willingness to Learn	|	Active Listening	|	Time Management |	De
 - [DataWars](https://profiles.datawars.io/djcalanco)
 - [FreeCodeAcademy](https://www.freecodecamp.org/BillyTheGreat)
 
-<img src="images/IMG_0265.jpg" width="300">
+<img src="images/IMG_0265.png" width="300">
