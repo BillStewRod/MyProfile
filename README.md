@@ -1,6 +1,6 @@
 # Billiam Stewart Rodriguez | Patuxent River, MD
 
-<img src="images/IMG_0265.png" width="300">
+<img src="images/lowresIMG_0270.jpg" width="300">
 
 ## Professional Summary
 Highly experienced Port Operation Director with 22 years in the U.S Navy, specializing in strategic planning, financial management, and operational optimization. Skilled in data analysis using Tableau and Excel to improve efficiency and reduce costs. Holds an active security clearance with a successful track record in managing operations and leading cross-functional teams.
