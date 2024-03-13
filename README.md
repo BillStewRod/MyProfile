@@ -91,7 +91,20 @@ Improved Statement of Work CLM 031	2024	|  Fundamentals of Systems Acquisition M
 
 CompTIA A+ Core 1 (220-1101) Cert Prep: 1 The Basics 2024	|  CompTIA A+ Core 1 (220-1101) Cert Prep: 2 CPUs and RAM 2024 
 
-Senior Enlisted Aviation Maintenance	2018  |  Master Training Specialist (MTS), Mentor	2016
+USMAPS Airframe And Powerplant Mechanic 5000hrs 2021  |  Enlisted Navy Recruiting Orientation/Recruiter Canvasser (ENRO) 2018 
+
+Command Financial Specialist Training 2018  |  Senior Enlisted Aviation Maintenance	2018   
+
+USMAPS Computer Operator 2000hrs 2016  |  Master Training Specialist (MTS), Mentor 2016 
+
+Navy Instructor Training 2015   |  USMAPS Maintenance Mechanic (Any Industry) 8000hrs 2014
+
+USMAPS Powerplant Mechanic (Aircraft Engine Mechanic) 3000hrs 2012  |  USMAPS Counselor (Professional & Kindred) 4000hrs 2010 
+
+P-3 Powerplant and Related Systems (Initial) Organizational Maintenance 2004  |  Aviation Machinist Mate Turboprop Fundamentals Strand, Class A1  2002 
+
+Aviation Machinist Mate Common Core, Class A 2002
+
 
 
 ## SOFT SKILLS
