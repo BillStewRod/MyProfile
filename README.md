@@ -2,15 +2,15 @@
 
 <img src="images/IMG_0265.png" width="250">
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 Highly experienced Port Operation Director with 22 years in the U.S Navy, specializing in strategic planning, financial management, and operational optimization. Skilled in data analysis using Tableau and Excel to improve efficiency and reduce costs. Holds an active security clearance with a successful track record in managing operations and leading cross-functional teams.
 
 
-## TECHNICAL SKILLS
+## Technical Skills
 Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitHub | MacOS, Windows, Linux | Python, C#, C/C++, R, SQL, PERL | Pandas, NumPy, jQuery, VisiData | PowerShell, Git, Bash, JavaScript 
 
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 ### US NAVY – Patuxent River, MD |  Sep 2022 – Present
 #### Port Operation Director
 •	Designed financial dashboard in Tableau to assess budgetary performance and identify potential variances for a $100k annual budget. Spearheaded initiative-taking resource allocation strategies for optimization.
@@ -19,7 +19,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 
 •	Condensed complex financial data into executive-level briefs, highlighting KPIs and potential risks. Facilitated quantitative support for the Command Triad with clear and effective communication.
 
-#### US NAVY – Patuxent River, MD |  Aug 2021 –Aug 2022 
+### US NAVY – Patuxent River, MD |  Aug 2021 –Aug 2022 
 #### Surface Operations Director 
 •	Executed objective judgment to enhance Naval Security Force initiatives, port operations, and emergency preparedness. Optimized resource allocation through rigorous analysis of multiple base exercises.
 
@@ -80,7 +80,7 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 •	Reactively analyzed maintenance data using Decision Knowledge Programming (DECKPLATE) and Optimized Organizational Maintenance Activity System (OOMA) databases to identify aircraft engine maintenance trends for 13 P-3C aircraft. Generated reports in Excel, supporting metrics-based decision optimization to enhance aircraft availability.
 
 
-## CERTIFICATIONS
+## Certifications
 Data Analytics 1: Foundations	2024	|  Analyze data with Power BI	2024
 
 Career Skills in Data Analytics	2024	|  Microsoft Azure Data Fundamentals	2024
@@ -107,7 +107,7 @@ Aviation Machinist Mate Common Core, Class A 2002
 
 
 
-## SOFT SKILLS
+## Soft Skills
 Problem-Solving |	Willingness to Learn	|	Active Listening	|	Time Management |	Decision-Making |	Critical Thinking	|	Openness to Change |	Leadership	|	Flexibility | 	Networking	|	Organizational Skills |	Verbal/Written Communication
 
 
