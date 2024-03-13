@@ -1,4 +1,4 @@
-# The Future of Billiam Stewart Rodriguez
+# Billiam Stewart Rodriguez | Patuxent River, MD
 
 <img src="images/IMG_0265.png" width="250">
 
@@ -8,6 +8,7 @@ Highly experienced Port Operation Director with 22 years in the U.S Navy, specia
 ## TECHNICAL SKILLS
 Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitHub | MacOS, Windows, Linux | Python, C#, C/C++, R, SQL, PERL | Pandas, NumPy, jQuery, VisiData | PowerShell, Git, Bash, JavaScript 
 
+## PROFESSIONAL EXPERIENCE
 ## US NAVY – Patuxent River, MD | Port Operation Director | Sep 2022 – Present
 
 •	Designed financial dashboard in Tableau to assess budgetary performance and identify potential variances for a $100k annual budget. Spearheaded initiative-taking resource allocation strategies for optimization.
@@ -73,6 +74,18 @@ Microsoft Office Suite | Visual Studio | Azure & AWS | Tableau & Power BI | GitH
 
 •	Reactively analyzed maintenance data using Decision Knowledge Programming (DECKPLATE) and Optimized Organizational Maintenance Activity System (OOMA) databases to identify aircraft engine maintenance trends for 13 P-3C aircraft. Generated reports in Excel, supporting metrics-based decision optimization to enhance aircraft availability.
 
+## CERTIFICATIONS
+Data Analytics 1: Foundations	2024	|  Analyze data with Power BI	2024
+
+Career Skills in Data Analytics	2024	|  Microsoft Azure Data Fundamentals	2024
+
+SQL for Data Analysis	2024	|  Career Essentials in Data Analysis 2024
+
+Improved Statement of Work CLM 031	2024	|  Fundamentals of Systems Acquisition Management ACQ 1010	2024
+
+CompTIA A+ Core 1 (220-1101) Cert Prep: 1 The Basics 2024	|  CompTIA A+ Core 1 (220-1101) Cert Prep: 2 CPUs and RAM 2024 
+
+Senior Enlisted Aviation Maintenance	2018  |  Master Training Specialist (MTS), Mentor	2016
 
 ## SOFT SKILLS
 Problem-Solving |	Willingness to Learn	|	Active Listening	|	Time Management |	Decision-Making |	Critical Thinking	|	Openness to Change |	Leadership	|	Flexibility | 	Networking	|	Organizational Skills |	Verbal/Written Communication
