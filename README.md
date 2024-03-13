@@ -118,3 +118,5 @@ Problem-Solving |	Willingness to Learn	|	Active Listening	|	Time Management |	De
 - [Microsoft Learning](https://learn.microsoft.com/en-us/users/billiamstewartrodriguez-8322/)
 - [DataWars](https://profiles.datawars.io/djcalanco)
 - [FreeCodeAcademy](https://www.freecodecamp.org/BillyTheGreat)
+
+<img src="images/IMG_0265.jpg" width="300">
