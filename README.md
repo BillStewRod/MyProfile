@@ -1,19 +1,24 @@
-# The Future in Tech
+# The Future of Billiam Stewart Rodriguez
 
 <img src="images/IMG_0265.png" width="250">
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+Highly experienced Port Operation Director with 22 years in the U.S Navy, specializing in strategic planning, financial management, and operational optimization. Skilled in data analysis using Tableau and Excel to improve efficiency and reduce costs. Holds an active security clearance with a successful track record in managing operations and leading cross-functional teams.
 
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
+•	Microsoft Office Suite
+•	Visual Studio
+•	Azure & AWS
+•	Tableau & Power BI
+•	GitHub
+•	MacOS, Windows, Linux	
+•	Python, C#, C/C++, R, SQL, PERL
+•	Pandas, NumPy, jQuery, VisiData
+•	PowerShell, Git, Bash, JavaScript
 
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
-
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
 
 ---
 ## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+- [GitHub](https://github.com/BillStewRod)
+- [LinkedIn](www.linkedin.com/in/billiamstewartrodriguez)
+- [Microsoft Learning](https://learn.microsoft.com/en-us/users/billiamstewartrodriguez-8322/)
+- [DataWars](https://profiles.datawars.io/djcalanco))
+- [FreeCodeAcademy](https://www.freecodecamp.org/BillyTheGreat)
